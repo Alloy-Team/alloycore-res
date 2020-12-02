@@ -1,0 +1,47 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "crystalline/gauntlet/gold/empty",
+		"particle": "crystalline/gauntlet/gold/empty"
+	},
+	"elements": [
+		{
+			"from": [6, 4, 6.5],
+			"to": [10, 10, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 12, 14.5]},
+			"faces": {
+				"north": {"uv": [0, 1, 4, 8], "texture": "#0"},
+				"east": {"uv": [0, 9, 3, 16], "texture": "#0"},
+				"south": {"uv": [4, 1, 8, 8], "texture": "#0"},
+				"west": {"uv": [3, 9, 6, 16], "texture": "#0"},
+				"up": {"uv": [12, 0, 16, 3], "texture": "#0"},
+				"down": {"uv": [12, 3, 16, 6], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 90, 0],
+			"translation": [0, -2, 4],
+			"scale": [1.25, 1.25, 1.35]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 90, 0],
+			"translation": [0, -2, 4],
+			"scale": [1.25, 1.25, 1.35]
+		},
+		"firstperson_righthand": {
+			"rotation": [46, 94, 66],
+			"translation": [-1.75, 2, 3.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [46, 94, 66],
+			"translation": [-1.75, 2, 3.5]
+		},
+		"gui": {
+			"rotation": [26, 50, -180],
+			"translation": [0, -1.5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

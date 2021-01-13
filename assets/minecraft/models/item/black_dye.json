@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/black_dye"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 31700}, "model": "aml/currency/gold_coin"},
+        {"predicate": {"custom_model_data": 31701}, "model": "aml/currency/silver_coin"}
+    ]
+}

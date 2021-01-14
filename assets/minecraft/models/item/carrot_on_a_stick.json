@@ -4,7 +4,7 @@
         "layer0": "item/carrot_on_a_stick"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 31710}, "model": "aml/currency/pouch"},
+        {"predicate": {"custom_model_data": 31100}, "model": "aml/currency/pouch"},
 
         {"predicate": {"custom_model_data": 64101}, "model": "biz/stand/icon/arrow"},
 

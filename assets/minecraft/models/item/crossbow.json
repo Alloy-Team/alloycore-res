@@ -60,7 +60,8 @@
             "model": "item/crossbow_firework"
         },
         {"predicate": {"custom_model_data": 170101}, "model": "flintlock/pistol"},
-        {"predicate": {"custom_model_data": 170102}, "model": "flintlock/cannon"}
+        
+        {"predicate": {"custom_model_data": 170201}, "model": "flintlock/cannon"}
 
 
     ]

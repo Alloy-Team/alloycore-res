@@ -7,6 +7,8 @@
         {"predicate": {"custom_model_data": 64101}, "model": "biz/stand/icon/arrow"},
 
         {"predicate": {"custom_model_data": 99001}, "model": "crystalline/crystal/fire"},
-        {"predicate": {"custom_model_data": 99901}, "model": "crystalline/gauntlet/gold/empty"}
+        {"predicate": {"custom_model_data": 99901}, "model": "crystalline/gauntlet/gold/empty"},
+
+        {"predicate": {"custom_model_data": 31710}, "model": "aml/currency/pouch"}
     ]
 }

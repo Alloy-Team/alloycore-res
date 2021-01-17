@@ -11,6 +11,7 @@
         {"predicate": {"custom_model_data": 170101}, "model": "artificium/artifacts/codex_animus"},
 
         {"predicate": {"custom_model_data": 310101}, "model": "aml/currency/pouch"},
+        {"predicate": {"custom_model_data": 310102}, "model": "aml/currency/invis_pouch"},
 
         {"predicate": {"custom_model_data": 640101}, "model": "biz/stand/icon/arrow"},
 

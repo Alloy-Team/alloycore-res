@@ -1,0 +1,27 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/apple"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 110101}, "model": "sea/fruits/para/gumgum"},
+        {"predicate": {"custom_model_data": 110102}, "model": "sea/fruits/para/bubblebubble"},
+        {"predicate": {"custom_model_data": 110103}, "model": "sea/fruits/para/lordlord"},
+        {"predicate": {"custom_model_data": 110104}, "model": "sea/fruits/para/opop"},
+        {"predicate": {"custom_model_data": 110105}, "model": "sea/fruits/para/springspring"},
+
+        {"predicate": {"custom_model_data": 110201}, "model": "sea/fruits/zoan/humanhuman"},
+        {"predicate": {"custom_model_data": 110202}, "model": "sea/fruits/zoan/oxox"},
+
+        {"predicate": {"custom_model_data": 110301}, "model": "sea/fruits/logia/darkdark"},
+        {"predicate": {"custom_model_data": 110302}, "model": "sea/fruits/logia/rumblerumble"},
+
+        {"predicate": {"custom_model_data": 110401}, "model": "sea/fruits/misc/sphere1"},
+        {"predicate": {"custom_model_data": 110402}, "model": "sea/fruits/misc/sphere2"},
+        {"predicate": {"custom_model_data": 110403}, "model": "sea/fruits/misc/sphere3"},
+        {"predicate": {"custom_model_data": 110404}, "model": "sea/fruits/misc/melon1"},
+
+        {"predicate": {"custom_model_data": 110501}, "model": "sea/fruits/exclusive/cockcock"}
+
+    ]
+}

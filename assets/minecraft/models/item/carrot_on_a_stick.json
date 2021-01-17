@@ -4,6 +4,8 @@
         "layer0": "item/carrot_on_a_stick"
     },
     "overrides": [
+        {"predicate": {"custom_model_data": 110301}, "model": "sea/misc/fist"},
+
         {"predicate": {"custom_model_data": 110701}, "model": "sea/weapons/katana"},
         {"predicate": {"custom_model_data": 110702}, "model": "sea/weapons/wado_ichi"},
         {"predicate": {"custom_model_data": 110703}, "model": "sea/weapons/shusui"},

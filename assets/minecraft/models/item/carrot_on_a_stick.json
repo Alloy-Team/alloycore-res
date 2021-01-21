@@ -5,6 +5,7 @@
     },
     "overrides": [
         {"predicate": {"custom_model_data": 110301}, "model": "sea/misc/fist"},
+        {"predicate": {"custom_model_data": 110302}, "model": "sea/misc/sgfist"},
 
         {"predicate": {"custom_model_data": 110701}, "model": "sea/weapons/katana"},
         {"predicate": {"custom_model_data": 110702}, "model": "sea/weapons/wado_ichi"},

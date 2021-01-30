@@ -1,6 +1,13 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "sea/weapons/wado_ichi"
-    }
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "sea/weapons/wado_ichi"
+	},
+	"display": {
+		"head": {
+			"rotation": [90, 0, 135],
+			"translation": [-7.5, -5.75, -6.75]
+		}
+	}
 }

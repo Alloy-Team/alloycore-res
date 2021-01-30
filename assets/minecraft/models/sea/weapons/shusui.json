@@ -1,6 +1,13 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "sea/weapons/shusui"
-    }
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "sea/weapons/shusui"
+	},
+	"display": {
+		"head": {
+			"rotation": [90, 0, 135],
+			"translation": [-8.25, -6, -6.5]
+		}
+	}
 }

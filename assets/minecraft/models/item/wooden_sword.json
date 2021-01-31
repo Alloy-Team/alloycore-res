@@ -4,6 +4,6 @@
         "layer0": "item/wooden_sword"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 310101}, "model": "aml/ee/upvote"}
+        {"predicate": {"custom_model_data": 310101}, "model": "aml:ee/upvote"}
     ]
 }

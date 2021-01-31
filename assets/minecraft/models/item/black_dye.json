@@ -4,7 +4,7 @@
         "layer0": "item/black_dye"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 310101}, "model": "aml/currency/gold_coin"},
-        {"predicate": {"custom_model_data": 310102}, "model": "aml/currency/silver_coin"}
+        {"predicate": {"custom_model_data": 310101}, "model": "aml:currency/gold_coin"},
+        {"predicate": {"custom_model_data": 310102}, "model": "aml:currency/silver_coin"}
     ]
 }

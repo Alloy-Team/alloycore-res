@@ -4,6 +4,6 @@
         "layer0": "item/paper"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 310101}, "model": "aml/mail/sticky_paper"}
+        {"predicate": {"custom_model_data": 310101}, "model": "aml:mail/sticky_paper"}
     ]
 }

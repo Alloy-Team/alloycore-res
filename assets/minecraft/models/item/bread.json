@@ -4,6 +4,6 @@
         "layer0": "item/bread"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 310101}, "model": "aml/food/sandwich"}
+        {"predicate": {"custom_model_data": 310101}, "model": "aml:food/sandwich"}
     ]
 }

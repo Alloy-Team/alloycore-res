@@ -4,6 +4,7 @@
         "layer0": "item/iron_nugget"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 170101}, "model": "artificium/bosses/sandstone_golem"}
+        {"predicate": {"custom_model_data": 170101}, "model": "artificium/bosses/sandstone_golem"},
+        {"predicate": {"custom_model_data": 170102}, "model": "artificium/bosses/sandstone_golem_exposed"}
     ]
 }

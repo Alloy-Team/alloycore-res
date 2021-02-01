@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "sea/weapons/sea_stone_blade"
+	},
+	"display": {
+		"head": {
+			"rotation": [90, 0, 135],
+			"translation": [-8.75, -6, -6.25]
+		}
+	}
+}

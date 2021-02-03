@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/splash_potion"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 310101}, "model": "aml:flasks/lightning"},
+        {"predicate": {"custom_model_data": 310102}, "model": "aml:flasks/freezing"},
+        {"predicate": {"custom_model_data": 310103}, "model": "aml:flasks/fire"}
+    ]
+}

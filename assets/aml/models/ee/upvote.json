@@ -1,6 +1,14 @@
 {
-    "parent": "item/handheld",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
 	"textures": {
 		"layer0": "aml:ee/upvote"
+	},
+	"display": {
+		"head": {
+			"rotation": [90, -180, -45],
+			"translation": [-7, -5.25, -6.75],
+			"scale": [1.5, 1.5, 1.5]
+		}
 	}
 }

@@ -18,6 +18,11 @@
         {"predicate": {"custom_model_data": 310101}, "model": "aml:currency/pouch"},
         {"predicate": {"custom_model_data": 310102}, "model": "aml:currency/invis_pouch"},
 
+        {"predicate": {"custom_model_data": 310201}, "model": "aml:chalk/white"},
+        {"predicate": {"custom_model_data": 310202}, "model": "aml:chalk/red"},
+        {"predicate": {"custom_model_data": 310203}, "model": "aml:chalk/blue"},
+        {"predicate": {"custom_model_data": 310204}, "model": "aml:chalk/green"},
+
         {"predicate": {"custom_model_data": 640101}, "model": "biz/stand/icon/arrow"},
 
         {"predicate": {"custom_model_data": 990101}, "model": "crystalline/crystal/fire"},

@@ -7,10 +7,10 @@
         {"predicate": {"custom_model_data": 110301}, "model": "sea/misc/fist"},
         {"predicate": {"custom_model_data": 110302}, "model": "sea/misc/sgfist"},
 
-        {"predicate": {"custom_model_data": 110701}, "model": "sea/weapons/katana"},
-        {"predicate": {"custom_model_data": 110702}, "model": "sea/weapons/wado_ichi"},
-        {"predicate": {"custom_model_data": 110703}, "model": "sea/weapons/shusui"},
-        {"predicate": {"custom_model_data": 110704}, "model": "sea/weapons/seastone_katana"},
+        {"predicate": {"custom_model_data": 110701}, "model": "sea/weapons/sword/katana"},
+        {"predicate": {"custom_model_data": 110702}, "model": "sea/weapons/sword/wado_ichi"},
+        {"predicate": {"custom_model_data": 110703}, "model": "sea/weapons/sword/shusui"},
+        {"predicate": {"custom_model_data": 110704}, "model": "sea/weapons/sword/seastone_katana"},
 
         {"predicate": {"custom_model_data": 170101}, "model": "artificium/artifacts/codex_animus"},
         {"predicate": {"custom_model_data": 170102}, "model": "artificium/artifacts/redstone_heart"},

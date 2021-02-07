@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "sea/weapons/sea_stone_blade"
+		"layer0": "sea/weapons/sword/sea_stone_blade"
 	},
 	"display": {
 		"head": {

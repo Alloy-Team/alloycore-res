@@ -4,6 +4,8 @@
         "layer0": "item/melon_seeds"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 170101}, "model": "artificium/misc/codex_projectile"}
+        {"predicate": {"custom_model_data": 170101}, "model": "artificium/misc/codex_projectile"},
+        {"predicate": {"custom_model_data": 170102}, "model": "artificium/misc/mystic_hands"}
+
     ]
 }

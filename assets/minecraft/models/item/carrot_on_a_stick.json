@@ -4,9 +4,11 @@
         "layer0": "item/carrot_on_a_stick"
     },
     "overrides": [
+        
         {"predicate": {"custom_model_data": 110301}, "model": "sea/misc/fist"},
         {"predicate": {"custom_model_data": 110302}, "model": "sea/misc/sgfist"},
-
+        {"predicate": {"custom_model_data": 110303}, "model": "sea/misc/df_box"},
+        
         {"predicate": {"custom_model_data": 110701}, "model": "sea/weapons/sword/katana"},
         {"predicate": {"custom_model_data": 110702}, "model": "sea/weapons/sword/wado_ichi"},
         {"predicate": {"custom_model_data": 110703}, "model": "sea/weapons/sword/shusui"},

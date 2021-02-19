@@ -35,10 +35,10 @@
         {"predicate": {"custom_model_data": 110129}, "model": "sea/fruits/para/castlecastle"},
 
         {"predicate": {"custom_model_data": 110201}, "model": "sea/fruits/zoan/humanhuman/vanilla"},
-        {"predicate": {"custom_model_data": 110202}, "model": "sea/fruits/zoan/oxox/cow"},
-        {"predicate": {"custom_model_data": 110203}, "model": "sea/fruits/zoan/pigpig/creeper"},
-        {"predicate": {"custom_model_data": 110204}, "model": "sea/fruits/zoan/salamander/dolphin"},
-        {"predicate": {"custom_model_data": 110205}, "model": "sea/fruits/zoan/humanhuman/enderman"},
+        {"predicate": {"custom_model_data": 110202}, "model": "sea/fruits/zoan/humanhuman/enderman"},
+        {"predicate": {"custom_model_data": 110203}, "model": "sea/fruits/zoan/oxox/cow"},
+        {"predicate": {"custom_model_data": 110204}, "model": "sea/fruits/zoan/pigpig/creeper"},
+        {"predicate": {"custom_model_data": 110205}, "model": "sea/fruits/zoan/salamander/dolphin"},
         {"predicate": {"custom_model_data": 110206}, "model": "sea/fruits/zoan/bugbug/endermite"},
 
         {"predicate": {"custom_model_data": 110301}, "model": "sea/fruits/logia/darkdark"},

@@ -15,27 +15,56 @@
         {"predicate": {"custom_model_data": 110109}, "model": "sea/fruits/para/healheal"},
         {"predicate": {"custom_model_data": 110110}, "model": "sea/fruits/para/dicedice"},
         {"predicate": {"custom_model_data": 110111}, "model": "sea/fruits/para/waxwax"},
+        {"predicate": {"custom_model_data": 110112}, "model": "sea/fruits/para/venomvenom"},
+        {"predicate": {"custom_model_data": 110113}, "model": "sea/fruits/para/tremortremor"},
+        {"predicate": {"custom_model_data": 110114}, "model": "sea/fruits/para/timetime"},
+        {"predicate": {"custom_model_data": 110115}, "model": "sea/fruits/para/strawstraw"},
+        {"predicate": {"custom_model_data": 110116}, "model": "sea/fruits/para/stickstick"},
+        {"predicate": {"custom_model_data": 110117}, "model": "sea/fruits/para/shadowshadow"},
+        {"predicate": {"custom_model_data": 110118}, "model": "sea/fruits/para/rustrust"},
+        {"predicate": {"custom_model_data": 110119}, "model": "sea/fruits/para/reviverevive"},
+        {"predicate": {"custom_model_data": 110120}, "model": "sea/fruits/para/puffpuff"},
+        {"predicate": {"custom_model_data": 110121}, "model": "sea/fruits/para/pawpaw"},
+        {"predicate": {"custom_model_data": 110122}, "model": "sea/fruits/para/mochimochi"},
+        {"predicate": {"custom_model_data": 110123}, "model": "sea/fruits/para/markmark"},
+        {"predicate": {"custom_model_data": 110124}, "model": "sea/fruits/para/lovelove"},
+        {"predicate": {"custom_model_data": 110125}, "model": "sea/fruits/para/licklick"},
+        {"predicate": {"custom_model_data": 110126}, "model": "sea/fruits/para/hollowhollow"},
+        {"predicate": {"custom_model_data": 110127}, "model": "sea/fruits/para/glitterglitter"},
+        {"predicate": {"custom_model_data": 110128}, "model": "sea/fruits/para/creamcream"},
+        {"predicate": {"custom_model_data": 110129}, "model": "sea/fruits/para/castlecastle"},
 
         {"predicate": {"custom_model_data": 110201}, "model": "sea/fruits/zoan/humanhuman"},
         {"predicate": {"custom_model_data": 110202}, "model": "sea/fruits/zoan/oxox"},
-        {"predicate": {"custom_model_data": 110203}, "model": "sea/fruits/zoan/lordlord"},
-        {"predicate": {"custom_model_data": 110204}, "model": "sea/fruits/zoan/creepcreep"},
-        {"predicate": {"custom_model_data": 110205}, "model": "sea/fruits/zoan/doldol"},
-        {"predicate": {"custom_model_data": 110206}, "model": "sea/fruits/zoan/endend"},
-        {"predicate": {"custom_model_data": 110207}, "model": "sea/fruits/zoan/endermite"},
+        {"predicate": {"custom_model_data": 110203}, "model": "sea/fruits/zoan/creepcreep"},
+        {"predicate": {"custom_model_data": 110204}, "model": "sea/fruits/zoan/doldol"},
+        {"predicate": {"custom_model_data": 110205}, "model": "sea/fruits/zoan/endend"},
+        {"predicate": {"custom_model_data": 110206}, "model": "sea/fruits/zoan/endermite"},
 
         {"predicate": {"custom_model_data": 110301}, "model": "sea/fruits/logia/darkdark"},
         {"predicate": {"custom_model_data": 110302}, "model": "sea/fruits/logia/rumblerumble"},
         {"predicate": {"custom_model_data": 110303}, "model": "sea/fruits/logia/plumeplume"},
         {"predicate": {"custom_model_data": 110304}, "model": "sea/fruits/logia/flameflame"},
         {"predicate": {"custom_model_data": 110305}, "model": "sea/fruits/logia/sandsand"},
+        {"predicate": {"custom_model_data": 110306}, "model": "sea/fruits/logia/iceice"},
+        {"predicate": {"custom_model_data": 110307}, "model": "sea/fruits/logia/magmag"},
+        {"predicate": {"custom_model_data": 110308}, "model": "sea/fruits/logia/glintglint"},
+        {"predicate": {"custom_model_data": 110309}, "model": "sea/fruits/logia/gasgas"},
+        {"predicate": {"custom_model_data": 110310}, "model": "sea/fruits/logia/snowsnow"},
+        {"predicate": {"custom_model_data": 110311}, "model": "sea/fruits/logia/swampswamp"},
 
         {"predicate": {"custom_model_data": 110401}, "model": "sea/fruits/misc/sphere1"},
         {"predicate": {"custom_model_data": 110402}, "model": "sea/fruits/misc/sphere2"},
         {"predicate": {"custom_model_data": 110403}, "model": "sea/fruits/misc/sphere3"},
         {"predicate": {"custom_model_data": 110404}, "model": "sea/fruits/misc/melon1"},
 
-        {"predicate": {"custom_model_data": 110501}, "model": "sea/fruits/exclusive/cockcock"}
+        {"predicate": {"custom_model_data": 110501}, "model": "sea/fruits/exclusive/cockcock"},
+        {"predicate": {"custom_model_data": 110502}, "model": "sea/fruits/exclusive/panpan"},
+        {"predicate": {"custom_model_data": 110503}, "model": "sea/fruits/exclusive/sussus"},
+        {"predicate": {"custom_model_data": 110504}, "model": "sea/fruits/exclusive/vasevase"},
+
+        {"predicate": {"custom_model_data": 110601}, "model": "sea/fruits/smile/common"}
+
 
     ]
 }

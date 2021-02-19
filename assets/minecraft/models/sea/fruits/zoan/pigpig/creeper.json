@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "sea/fruits/zoan/creepcreep"
+        "layer0": "sea/fruits/zoan/pigpig/creeper"
     }
 }

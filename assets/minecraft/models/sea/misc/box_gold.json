@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "sea/misc/df_box"
+        "layer0": "sea/misc/box_gold"
     }
 }
